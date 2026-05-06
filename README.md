@@ -1,4 +1,4 @@
-analyze_comments.py
+#analyze_comments.py
 
 This is a tool which can be utilized to filter and analyze statistics relating to a collection of strings, 
 primarily captions and comments left on posts from Instagram, Facebook, and TikTok. In its current capacity, 
